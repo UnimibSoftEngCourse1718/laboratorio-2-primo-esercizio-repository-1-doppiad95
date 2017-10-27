@@ -4,3 +4,5 @@ Aggiungo contenuto
 
 Contenuto modificato sul clone 
 try merge
+
+added file2
